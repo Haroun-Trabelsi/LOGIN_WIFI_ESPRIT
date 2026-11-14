@@ -1,3 +1,10 @@
+# LOGIN_WIFI_ESPRIT
+
+Selenium script that auto-logs into the ESPRIT campus Wi-Fi captive portal using credentials from DETAILS.env. Tech: Python (selenium, Firefox/geckodriver, python-dotenv). 2024.
+Status: archived / historical — not maintained; original usage instructions preserved below.
+
+---
+
 DESCRIPTION:
 
 This script was made to help you login into Esprit's network without having to enter the website and type in the credenstials manually each time.
